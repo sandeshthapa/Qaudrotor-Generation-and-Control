@@ -1,4 +1,4 @@
-# Quadrotor-Trajecotry-Generation-and-Control
+# Quadrotor-Trajectory-Generation-and-Control
 
 
 ## Minimum Snap Trajectory Generation and Control for Quadrotors 
